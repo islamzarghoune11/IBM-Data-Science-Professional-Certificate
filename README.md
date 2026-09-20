@@ -91,43 +91,8 @@ IBM-Data-Science-Professional-Certificate/
 
 ## 💼 Selected Projects
 
-This section highlights the main practical projects developed throughout the certificate.
-
-### 🐍 Python Project
-
-A practical project applying Python and data-related libraries to work with real-world data.
-
-**Main skills:** Python, Pandas, NumPy
-
-### 🗃️ SQL & Database Project
-
-Practical work involving relational databases, SQL queries, and data analysis using Python.
-
-**Main skills:** SQL, relational databases, Python
-
-### 📊 Data Analysis Project
-
-A data analysis workflow involving data preparation, cleaning, exploration, and statistical analysis.
-
-**Main skills:** Pandas, NumPy, data cleaning, exploratory data analysis
-
-### 📈 Data Visualization Project
-
-Projects focused on exploring and communicating information through visualizations and dashboards.
-
-**Main skills:** Matplotlib, Seaborn, Folium
-
-### 🤖 Machine Learning Project
-
-A practical machine learning project covering data preparation, model training, prediction, and evaluation.
-
-**Main skills:** Scikit-learn, regression, classification, model evaluation
-
-### 🚀 Applied Data Science Capstone
-
-The final project brings together several skills developed throughout the certificate in an end-to-end Data Science workflow.
-
-**Main stages:** data collection, data preparation, exploratory analysis, visualization, machine learning, and communication of results.
+Projects will be added here as I complete the practical work
+throughout the certificate.
 
 ## 🎯 Learning Outcomes
 
