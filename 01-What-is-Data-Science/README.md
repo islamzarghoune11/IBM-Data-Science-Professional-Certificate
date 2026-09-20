@@ -8,7 +8,7 @@ As a Data Science and Artificial Intelligence student, it also helped me connect
 
 ## 📜 Course Certificate
 
-![Certificate](./certificate.png)
+[View my course certificate →](../certificate/01_What_is_Data_Science.pdf)
 
 > **Grade achieved:** 100%
 
