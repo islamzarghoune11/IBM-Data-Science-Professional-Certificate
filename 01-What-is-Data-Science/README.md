@@ -1,66 +1,68 @@
-\# 📘 Course 1: What is Data Science?
+# 📘 Course 1: What is Data Science?
+
+This course introduced me to the field of **Data Science** and helped me understand what data scientists do, the skills they use, and how data can be used to solve real-world problems.
+
+As a Data Science and Artificial Intelligence student, it also helped me connect what I am studying academically with the broader field and its applications.
+
+---
+
+## 📜 Course Certificate
+
+![Certificate](./certificate.png)
+
+> **Grade achieved:** 100%
+
+---
+
+## 🧠 What I Learned
+
+### 1. Data Science & the Role of a Data Scientist
+
+* Explored different definitions and perspectives on Data Science.
+* Learned about the roles, skills, and responsibilities of data scientists.
+* Discovered different career paths within the field.
+* Understood how data scientists approach and structure problems.
+
+### 2. Big Data, Data Mining & Machine Learning
+
+* Learned the fundamentals of **Big Data** and its role in digital transformation.
+* Discovered the basics of **data mining**, machine learning, and deep learning.
+* Explored how cloud technologies can support data-related tasks.
+* Reviewed basic concepts such as regression and neural networks.
+
+### 3. Data Science Applications
+
+* Explored applications of Data Science in areas such as business, healthcare, and other real-world contexts.
+* Learned how organizations can use data to support decision-making and solve practical problems.
+* Examined how Data Science projects can be structured and communicated.
+
+### 4. Careers in Data Science
+
+* Explored different career paths and roles in Data Science.
+* Learned about skills and qualities expected from data professionals.
+* Reviewed examples of Data Science job opportunities and recruitment expectations.
+
+---
+
+## 📚 Main Topics
+
+`Data Science` · `Big Data` · `Data Mining` · `Machine Learning` · `Deep Learning` · `Cloud Computing` · `Data Science Careers`
+
+---
+
+## 🔗 Course
+
+[View the course on Coursera →](https://www.coursera.org/learn/what-is-datascience)
+
+---
+
+### Next
+
+**Course 2 — Tools for Data Science**
 
 
 
-Finding this course was a defining moment for me! As a student passionate about Artificial Intelligence and Data Science, this course aligned perfectly with my ambitions and gave me a clear, inspiring vision of what it truly means to be a Data Scientist.
 
 
 
-\---
-
-
-
-\## 📜 Course Certificate
-
-\*(You can view my official certificate file below once downloaded)\*
-
-
-
-!\[Certificate](./certificate.png)
-
-
-
-> 🏆 \*\*Grade Achieved:\*\* \*\*100%\*\* on all quizzes, case study, and the final exam!
-
-
-
-\---
-
-
-
-\## 🧠 What I Learned
-
-
-
-\### 1. Defining Data Science \& What Data Scientists Do
-
-\- Explored real definitions and career paths from industry practitioners.
-
-\- Understood the core roles, analytical mindsets, and daily activities of data scientists.
-
-\- Learned how data scientists follow structured processes to solve complex problems.
-
-
-
-\### 2. Big Data, Data Mining \& Machine Learning
-
-\- Understood the core attributes of \*\*Big Data\*\* and how cloud environments are used to process it.
-
-\- Learned the fundamentals of data mining, artificial intelligence, machine learning, and deep learning.
-
-
-
-\### 3. Applications \& Careers in Data Science
-
-\- Analyzed real-world application domains across business, sports, and healthcare.
-
-\- Evaluated job market expectations and key qualities that set data scientists apart.
-
-\- Completed a case study and job posting review to align my skills with industry demands.
-
-
-
-\---
-
-\*Next Step: \*\*Course 2 — Tools for Data Science\*\* 🚀\*
 
